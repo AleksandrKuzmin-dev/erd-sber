@@ -1,0 +1,21 @@
+.board {
+    width: 90vw;
+    height: 90vh;
+    background-color: white;
+    border-radius: 20px;
+    position: relative;
+  }
+
+.board__add-entity {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  width: 60px;
+  height: 60px;
+  background-color: #22a19a;
+  border: unset;
+  color: white;
+  font-size: 28px;
+  border-radius: 10px;
+  cursor: pointer;
+}

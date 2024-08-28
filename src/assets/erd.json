@@ -1,0 +1,21 @@
+{
+    "ddl1": {
+        "client_id": "integer",
+        "gender": "text",
+        "age_group": "text",
+        "okrug_num": "integer",
+        "region_code": "integer"
+    }, 
+    "ddl2": {
+        "Category_id": "integer", 
+        "category_name": "text"
+    },
+    "ddl3": {
+        "terminal_id": "integer",
+        "latitude": "integer",
+        "longitude": "integer",
+        "okrug_mt": "text",
+        "region_id": "integer",
+        "internet_flag": "bool"
+    }
+}
