@@ -1,8 +1,40 @@
-# React + Vite
+# ERD редактора на React
+![Static Badge](https://img.shields.io/badge/React-blue)
+![Static Badge](https://img.shields.io/badge/JavaScript-yellow)
+![Static Badge](https://img.shields.io/badge/HTML-orange)
+![Static Badge](https://img.shields.io/badge/CSS-blue)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## Просмотр приложения
+> Перейдите по ссылке: https://erd-sber.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Требования
+
+Убедитесь, что у вас установлены следующие программные компоненты:
+
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/) или [yarn](https://yarnpkg.com/)
+
+## Установка
+
+1. Клонируйте репозиторий:
+
+```sh
+git clone https://github.com/AleksandrKuzmin-dev/erd-sber.git
+```
+
+2. Перейдите в дириекторию проекта:
+
+```sh
+cd erd-sber
+```
+
+3. Установите зависимости 
+```sh
+npm install
+```
+4. Запустите приложение:
+
+```sh
+npm start
+```
